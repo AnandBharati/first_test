@@ -32,8 +32,6 @@ function CountDown() {
         setTimer(0);
     }
 
-
-
     return (
         <div className='countdown'>
             <Heading type='h1'> Count Down </Heading>
