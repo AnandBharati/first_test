@@ -1,0 +1,21 @@
+button{
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    background-color: #fde1bc;
+    color: #151515;
+    padding: .8rem 2rem;
+    border-radius: .4rem;
+    outline: none;
+    border: none;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+button:active{
+    transform: scale(102%);
+}
+
+button:hover{
+    background-color: rgb(10, 230, 127);
+}

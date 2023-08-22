@@ -1,0 +1,12 @@
+.countdown{
+    display: inline-block;
+    padding: 3rem 5rem;
+    border-radius: 1rem;
+    background-color: brown;
+    color: aliceblue;
+    box-shadow: 10px 10px 15px #0005;
+}
+
+.btns{
+    text-align: center;
+}
